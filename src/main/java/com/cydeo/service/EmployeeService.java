@@ -15,7 +15,7 @@ public class EmployeeService {
         employeeList.add(employee);
     }
 
-    public List<Employee> readAllEmployee(){
+    public List<Employee> readAllEmployees(){
         return employeeList;
     }
 
